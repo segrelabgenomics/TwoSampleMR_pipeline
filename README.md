@@ -53,7 +53,8 @@ library("TwoSampleMR")<br/>
 
 ## Step by step description for running our TwoSampleMR pipeline
 
-Guide to running our TwoSampleMR pipeline, preprocessing of input files, and generating results can be found in [README.md](https://github.com/segrelabgenomics/TwoSampleMR_pipeline/README.md). Instructions are based on using GTEx v8 data as input, but can be applied to any non-GTEx QTL datasets.
+**Guide to running our TwoSampleMR pipeline, preprocessing of input files, and generating results:**
+Instructions are based on using GTEx v8 data as input, but can be applied to any non-GTEx QTL datasets.
 
 1. Create the repository structure 
 2. Format the GWAS summary statistics file. Required columns: chr, pos, SNP, effect_allele, Other_allele, effect, StdErr, gwas_p_value
