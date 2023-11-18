@@ -14,14 +14,14 @@ Segre lab, Massachusetts Eye and Ear, Harvard Medical School, Boston, MA<br/>
 [3] Broad Institute of Harvard and MIT, Cambridge, MA, USA<br/>
 [4] Centre for Evidence-Based Medicine, University of Oxford, Oxford, UK; Faculty of Medicine, Imperial College London, London, UK<br/>
 
-For questions or comments regarding this tool, please contact **Puja Mehta at pamehta [at] meei [dot] harvard [dot] edu**, and **Ayellet Segre at ayellet\_segre [at] meei [dot] harvard [dot] edu.**<br/>
+For questions or comments regarding this tool, please contact Puja Mehta at **pamehta [at] meei [dot] harvard [dot] edu**, and Ayellet Segre at **ayellet\_segre [at] meei [dot] harvard [dot] edu.**<br/>
 
 **Date:** November 16, 2023
 
 ## Repository structure
 
 ``src``: the directory contains scripts for the software pipeline and for generating results<br/>
-``data``: the directory contains input files required to run TwoSampleMR and MendelianRandomization for GTEx v8 QTLs. Each type of molecular QTL will have a separate sub-directory (e.g. GTEx_v8_eQTL ,GTEx_v8_sQTL)<br/>
+``data``: the directory contains input files required to run TwoSampleMR and MendelianRandomization for GTEx v8 QTLs. Needs to be downloaded by user. Each type of molecular QTL will have a separate sub-directory (e.g. GTEx_v8_eQTL, GTEx_v8_sQTL)<br/>
 ``tmp_data``: the directory contains temporary files generated<br/>
 ``results``: the directory containing the results file<br/>
 
