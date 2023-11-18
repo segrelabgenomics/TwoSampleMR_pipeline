@@ -68,9 +68,12 @@ The output resuts file is per GWAS/trait, gene, QTL type, tissue combination and
 Our code is distributed under the terms of the BSD 3-Clause License. See LICENSE.txt file for more details.
 
 ## Citation
-Hamel et al. Integrating genetic regulation and single-cell expression with GWAS prioritizes causal genes and cell types for glaucoma, medRxiv 2023 (https://www.medrxiv.org/content/10.1101/2022.05.14.22275022v2). Accepted in principle at Nature Communications 2023.<br/>
-GTEx Consortium, "The GTEx Consortium atlas of genetic regulatory effects across human tissues", Science 369, 1318–1330 (2020).<br/>
-Hemani et al.,”The MR-Base platform supports systematic causal inference across the human phenome”, eLife 2018 (https://elifesciences.org/articles/34408)<br/>
-Hemani et al.,”Orienting the causal relationship between imprecisely measured traits using GWAS summary data”, PLOS Genetics 2017 (https://doi.org/10.1371/journal.pgen.1007081)<br/>
+1. Hamel *et al.*, "Integrating genetic regulation and single-cell expression with GWAS prioritizes causal genes and cell types for glaucoma", medRxiv 2023 (https://www.medrxiv.org/content/10.1101/2022.05.14.22275022v2). Accepted in principle at Nature Communications 2023.<br/>
+2. GTEx Consortium, "The GTEx Consortium atlas of genetic regulatory effects across human tissues", Science 369, 1318–1330 (2020).<br/>
+3. Hemani *et al.*,”The MR-Base platform supports systematic causal inference across the human phenome”, eLife 2018 (https://elifesciences.org/articles/34408)<br/>
+4. Hemani *et al.*,”Orienting the causal relationship between imprecisely measured traits using GWAS summary data”, PLOS Genetics 2017 (https://doi.org/10.1371/journal.pgen.1007081)<br/>
+5. Yavorska and Burgess, "MendelianRandomization: an R package for performing Mendelian randomization analyses using summarized data", Int. J. Epidemiol. 46, 1734–1739 (2017).<br/>
+6. Bowden *et al.*, "Mendelian randomization with invalid instruments: effect estimation and bias detection through Egger regression", Int. J. Epidemiol. 44, 512–525 (2015).<br/>
+7. Verbanck *et al.*, "Detection of widespread horizontal pleiotropy in causal relationships inferred from Mendelian randomization between complex traits and diseases", Nat. Genet. 50, 693–698 (2018).<br/>
 
 **Last updated:** November 16, 2023
